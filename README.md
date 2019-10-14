@@ -12,8 +12,8 @@ The training data is pretty large, so we will break it into smalle sizes.
 
 ## Model/Data
 
-training model is RNN model
- training data we get it from kaggle https://www.kaggle.com/jannesklaas/scifi-stories-text-corpus#internet_archive_scifi_v3.txt
+-training model is RNN model.
+-training data we get it from kaggle https://www.kaggle.com/jannesklaas/scifi-stories-text-corpus#internet_archive_scifi_v3.txt
 
 ## Code
 
