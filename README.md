@@ -1,20 +1,22 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
+Yifan Hou, yihou@ucsd.edu
 
-(Your teammate's contact info, if appropriate)
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+Science fiction story is always imaginative and futuristic, and  it contains many advanced science and technologies. Sometimes it even could inspire and influence current people. Due to these characteristics, science fiction writers not only need to master much acknoledge of science but also need to make their stories lierary. It is difficult to keep balance between these two. In this project, we are curious about if we could use machine to write science fiction story and the quality of that. We use RNN model to do this text generate task. The dataset we used was original created by Robin Sloan who in turn collected it largely from the Pulp Magazine Archive.
+The training data is pretty large, so we will break it into smalle sizes.
+
+
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data). what is your corpus?
+training model is RNN model
+ training data we get it from kaggle https://www.kaggle.com/jannesklaas/scifi-stories-text-corpus#internet_archive_scifi_v3.txt
 
 ## Code
+
 
 Your code for generating your project:
 - training_code.py or training_code.ipynb - your training code
