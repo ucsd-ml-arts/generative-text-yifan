@@ -24,16 +24,14 @@ Your code for generating your project:
 ## Results
 - I use these different 2 model generate 6 text.
 - For chara-level RNN model: batche size = 64, epoch size is 30. Loss is 0.5253.
- batch size = 64, epoch size is 80. Loss is 0.6066.
- batch size = 128, epoch size is 30. Loss is 0.8172.
- batch size = 128, epoch size is 80. Loss is 0.3878. 
- The text generated is below.
- what do you mean? Kande Wonder Woman: "no."
-Why did they take pringers down? A. How do you know the economit shoes? They can't even. What does a gay marrious artist* today What do you call the face suckets for someone who's always I get helped mp crempers are to ride the why do math airliner is just but still has been up. How are some own came up? It's also desfesting something something about about something. * it's like the reception was a small medium at large. What do you call a psychic who sirved and make a shower so many?! Don't cry you call lying for me to remembled my phone once a man won't talk.
-We get a cold snowman walks into a bar* What's the difference between redneck newwworts because of sister was aball and sock. *sees a car warseboard. I say, "Zapo I tried to go had sex in a couple having camping and be onling a skeletarn to his "Althe Savavo. My elem and i am sitting in. after learning about you smack yourself for me! My anteactors for black moves.
-What did the doctor say to the man?" I am.
-*cent goes boy with you? A good one ring! Rippy Dark hermast. Nobody takes my but hair down by itself and said, "Who's an about roller class? Because an amount cat that we are wantednt but my probldmicJust fell find it difficult you can procreate just like they're.coutine.
-I took up thin a rioo.
+  batch size = 64, epoch size is 80. Loss is 0.6066.
+  batch size = 128, epoch size is 30. Loss is 0.8172.
+  batch size = 128, epoch size is 80. Loss is 0.3878. 
+  The text generated is below.
+  what do you mean? Kande Wonder Woman: "no."
+  Why did they take pringers down? A. How do you know the economit shoes? They can't even. What does a gay marrious artist* today What     do you call the face suckets for someone who's always I get helped mp crempers are to ride the why do math airliner is just but still   has been up. How are some own came up? It's also desfesting something something about about something. * it's like the reception was a   small medium at large. What do you call a psychic who sirved and make a shower so many?! Don't cry you call lying for me to remembled   my phone once a man won't talk.
+  We get a cold snowman walks into a bar* What's the difference between redneck newwworts because of sister was aball and sock. *sees a   car warseboard. I say, "Zapo I tried to go had sex in a couple having camping and be onling a skeletarn to his "Althe Savavo. My elem   and i am sitting in. after learning about you smack yourself for me! My anteactors for black moves.
+  
 What do you call a group of Moses on her period? Her aide England consed to look out sick right now. It's easily from being sending my tweets month shitty Boyfriend: Nobody to sleep. They spend my pen? You name movie.
 I have not daing! Could you expecting stock to sit down. Me: *likes .
 I assume the grass that crazy? She lives by the reason for men at down my girlfriend's the radio on Scrobable of leaves, I'm like 'the Africa admin? I feel like, "Your guts a blind man whom? Well, I will never know.
@@ -46,10 +44,11 @@ S Ramas? Whild I've been calling myself whates s for e was head Eak my mom watch
 Heard on Tanyon'T Ny CC: butterfly have never even talksed in a 'to 3 bullets fact that Internal good. 2: There was a steam-ass-bemmer, Parton six closer.
 I am Sanduse Prettyme: What? Werst ALian kilfering a CHAW! Q: What do eme give key, does my dog event a little Cold? What's the difference between a bag of cocaine and full? Bod: Her are like Asia seconds. My girlfriend says I have to walk back 5 oit of plan Nom: "Get out!" We don't serve the sheep wild and she was defend to five finding a legbee just shake things. 1: Alto vode and it decides through the water. I wold my dog to jump their favorite four poison. How can you tell if someone doesn't scream at 1cama can't see eye would be a snack knife, good Who's there? The chicken Gro Men the RLAMEL of the hell on the floor so male? Dagrie Nativelient & It's HMAKED TCKY DESTING BATMAN: 1. Optimati wars? to see mick jack something... ...they say "You have to use the kill in the middle song. I love Europe, it's the summer? John Couga M&le cannobs." "Our," people rallying to of them.
 why do his best friend's super's typus, you duck until Apple I contentback pluck and t You can't fin how much my socks good at it
-What happens when i find a good job in discove there? He had to do something about forgetting and text her in the game. My friend a text and a teched fool" she said: I Used them my mother in least 20 months; they have to say it swopped to the greatest do you used the aquetuar? You can't.... Breathe...Show. 
+What happens when i find a good job in discove there? He had to do something about forgetting and text her in the game. My friend a text and a teched fool" she said: I Used them my mother in least 20 months; they have to say it swopped to the greatest do you used the aquetuar? You can't.... Breathe...Show. Successful
+A burger for A: Shut the entert sterk
 
 - For word-level RNN model, batch size = 128, epoch is 30. Loss is 3.9978. I train this model 30 epochs for 6 hours, so I did not make epoch larger.The text generated below.
-  when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
+  when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor     walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
 
 ## Technical Notes
 
