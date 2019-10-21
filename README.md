@@ -22,11 +22,14 @@ Your code for generating your project:
 - generative_code.py or generative_code.ipynb - your generation code
 
 ## Results
-- I use these different 2 model generate 5 text.
-- The batch size is bellow.
+- I use these different 2 model generate 6 text.
+- For chara-level RNN model: batche size = 64, epoch size is 30. Loss is 0.5253.
+ batch size = 64, epoch size is 80. Loss is 0.6066.
+ batch size = 128, epoch size is 30. Loss is 0.8172.
+ batch size = 128, epoch size is 80. Loss is 0.3878.
 
-- when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
-- 
+- For word-level RNN model, batch size = 128, epoch is 30. Loss is 3.9978.
+  when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
 
 ## Technical Notes
 
