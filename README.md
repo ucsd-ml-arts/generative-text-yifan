@@ -10,8 +10,9 @@ In this text generation project, I want to generate some meaningful and interest
 
 ## Model/Data
 
-- training model is RNN model.
-- training data 
+- training model is chara-level-RNN model and word-level-RNN model.
+- training data is short jokes https://www.kaggle.com/abhinavmoudgil95/short-jokes
+
 
 ## Code
 
@@ -21,14 +22,15 @@ Your code for generating your project:
 - generative_code.py or generative_code.ipynb - your generation code
 
 ## Results
+- I use these different 2 model generate 5 text.
+- The batch size is bellow.
 
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+- when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
+- 
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+- My code requires TensorFlow, NumPy and keras . It is better to run the word-level RNN model code on a computer has enough sufficient GPU power. Otherwise, It will take a long time to run. 
 
 ## Reference
 
@@ -36,4 +38,5 @@ References to any papers, techniques, repositories you used:
 - Papers
   - [This is a paper](this_is_the_link.pdf)
 - Repositories
-- Blog posts
+- Blog posts https://github.com/hunkim/word-rnn-tensorflow
+
