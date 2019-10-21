@@ -44,6 +44,7 @@ Your code for generating your project:
   It would be great to be born on Earth and die on Mars.
   
   We get a cold snowman walks into a bar.
+  
   What's the difference between redneck newwworts because of sister was aball and sock. *sees a   car warseboard. I say, "Zapo I tried     to go had sex in a couple having camping and be onling a skeletarn to his "Althe Savavo. My elem   and i am sitting in. after learning   about you smack yourself for me! My anteactors for black moves.
   
   What do you call a group of Moses on her period? Her aide England consed to look out sick right now. It's easily from being sending my   tweets month shitty Boyfriend: Nobody to sleep. They spend my pen? You name movie.
@@ -58,7 +59,8 @@ Your code for generating your project:
  
 
 - For word-level RNN model, batch size = 128, epoch is 30. Loss is 3.9978. I train this model 30 epochs for 6 hours, so I did not make epoch larger.The text generated below.
-  when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor     walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
+
+  What did the elephant say to the man Cute My kid wanted juice but I gave him water which he promptly turned into whine when he was       betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor walks into a   patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
 
 ## Technical Notes
 
