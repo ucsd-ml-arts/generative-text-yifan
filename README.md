@@ -24,9 +24,13 @@ Your code for generating your project:
 ## Results
 - I use these different 2 model generate 6 text.
 - For chara-level RNN model.
+
   batche size = 64, epoch size is 30. Loss is 0.5253.
+  
   batch size = 64, epoch size is 80. Loss is 0.6066.
+  
   batch size = 128, epoch size is 30. Loss is 0.8172.
+  
   batch size = 128, epoch size is 80. Loss is 0.3878. The text generated is below.
   
   what do you mean? Kande Wonder Woman: "no."
