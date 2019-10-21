@@ -11,41 +11,36 @@ In this text generation project, I want to generate some meaningful and interest
 ## Model/Data
 
 - training model is chara-level-RNN model and word-level-RNN model.
-- training data is short jokes https://www.kaggle.com/abhinavmoudgil95/short-jokes
+- training data is short joke. https://www.kaggle.com/abhinavmoudgil95/short-jokes
 
 
 ## Code
 
 
 Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+- chara_level_RNN.ipynb 
+- word_level_RNN.ipynb
 
 ## Results
 - I use these different 2 model generate 6 text.
 - For chara-level RNN model.
-- batche size = 64, epoch size is 30. Loss is 0.5253.
-- batch size = 64, epoch size is 80. Loss is 0.6066.
-- batch size = 128, epoch size is 30. Loss is 0.8172.
-- batch size = 128, epoch size is 80. Loss is 0.3878. 
-  The text generated is below.
+  batche size = 64, epoch size is 30. Loss is 0.5253.
+  batch size = 64, epoch size is 80. Loss is 0.6066.
+  batch size = 128, epoch size is 30. Loss is 0.8172.
+  batch size = 128, epoch size is 80. Loss is 0.3878. The text generated is below.
   
   what do you mean? Kande Wonder Woman: "no."
   
   Why did they take pringers down? A. How do you know the economit shoes? They can't even. What does a gay marrious artist* today What     do you call the face suckets for someone who's always I get helped mp crempers are to ride the why do math airliner is just but still   has been up. How are some own came up? It's also desfesting something something about about something. * it's like the reception was a   small medium at large. What do you call a psychic who sirved and make a shower so many?! Don't cry you call lying for me to remembled   my phone once a man won't talk.
+  
   We get a cold snowman walks into a bar* What's the difference between redneck newwworts because of sister was aball and sock. *sees a   car warseboard. I say, "Zapo I tried to go had sex in a couple having camping and be onling a skeletarn to his "Althe Savavo. My elem   and i am sitting in. after learning about you smack yourself for me! My anteactors for black moves.
   
-What do you call a group of Moses on her period? Her aide England consed to look out sick right now. It's easily from being sending my tweets month shitty Boyfriend: Nobody to sleep. They spend my pen? You name movie.
-I have not daing! Could you expecting stock to sit down. Me: *likes .
-I assume the grass that crazy? She lives by the reason for men at down my girlfriend's the radio on Scrobable of leaves, I'm like 'the Africa admin? I feel like, "Your guts a blind man whom? Well, I will never know.
-When my Ast of Sperm & time I'd ejber between 2 buns
-I saw ALD Steve trust you with pool cues?
-She was nun for 7 gamas? How does a sonsa is like a traffic code? Call them they don't catch actiducts. Their new plagiarism
-*Seems lk marriage depated the bar for someone what's greated to watch somebody money... But I always punch him the morn from my drugs I used to work today. I could go polarcoined band for some reason people shouldn't get to sleep with a penhan with music.
-Why do Anakinsidious was a dressed more in the arm
-S Ramas? Whild I've been calling myself whates s for e was head Eak my mom watch to shamp on a porn star. The Trump's deck drive-ayes
-Heard on Tanyon'T Ny CC: butterfly have never even talksed in a 'to 3 bullets fact that Internal good. 2: There was a steam-ass-bemmer, Parton six closer.
-
+  What do you call a group of Moses on her period? Her aide England consed to look out sick right now. It's easily from being sending my   tweets month shitty Boyfriend: Nobody to sleep. They spend my pen? You name movie.
+  
+  I have not daing! Could you expecting stock to sit down. Me: *likes .
+  
+  I assume the grass that crazy? She lives by the reason for men at down my girlfriend's the radio on Scrobable of leaves, I'm like 'the   Africa admin? I feel like, "Your guts a blind man whom? Well, I will never know.
+ 
 
 - For word-level RNN model, batch size = 128, epoch is 30. Loss is 3.9978. I train this model 30 epochs for 6 hours, so I did not make epoch larger.The text generated below.
   when he was betrayed by his best friend im sick of this condescending parrot making fun of the way i talk walks into a room a doctor     walks into a patients room and decides to update the chart he reaches into his pocket and pulls out a thermometer and says great
