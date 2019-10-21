@@ -35,15 +35,24 @@ Your code for generating your project:
   
   what do you mean? Kande Wonder Woman: "no."
   
-  Why did they take pringers down? A. How do you know the economit shoes? They can't even. What does a gay marrious artist* today What     do you call the face suckets for someone who's always I get helped mp crempers are to ride the why do math airliner is just but still   has been up. How are some own came up? It's also desfesting something something about about something. * it's like the reception was a   small medium at large. What do you call a psychic who sirved and make a shower so many?! Don't cry you call lying for me to remembled   my phone once a man won't talk.
+  My girlfriend caught me cross-dressing So I packed up her clothes and left
   
-  We get a cold snowman walks into a bar* What's the difference between redneck newwworts because of sister was aball and sock. *sees a   car warseboard. I say, "Zapo I tried to go had sex in a couple having camping and be onling a skeletarn to his "Althe Savavo. My elem   and i am sitting in. after learning about you smack yourself for me! My anteactors for black moves.
+  Why did they take pringers down?  How do you know the economit shoes? They can't even. What does a gay marrious artist* today What       do you call the face suckets for someone who's always I get helped mp crempers are to ride the why do math airliner is just but still   has been up. How are some own came up? It's also desfesting something something about about something. * it's like the reception was a   small medium at large. What do you call a psychic who sirved and make a shower so many?! Don't cry you call lying for me to remembled   my phone once a man won't talk.
+  
+  It would be great to be born on Earth and die on Mars.
+  
+  We get a cold snowman walks into a bar.
+  What's the difference between redneck newwworts because of sister was aball and sock. *sees a   car warseboard. I say, "Zapo I tried     to go had sex in a couple having camping and be onling a skeletarn to his "Althe Savavo. My elem   and i am sitting in. after learning   about you smack yourself for me! My anteactors for black moves.
   
   What do you call a group of Moses on her period? Her aide England consed to look out sick right now. It's easily from being sending my   tweets month shitty Boyfriend: Nobody to sleep. They spend my pen? You name movie.
   
+  He was a real gentlemen and always opened the fridge door for me.
+  
   I have not daing! Could you expecting stock to sit down. Me: *likes .
   
-  I assume the grass that crazy? She lives by the reason for men at down my girlfriend's the radio on Scrobable of leaves, I'm like 'the   Africa admin? I feel like, "Your guts a blind man whom? Well, I will never know.
+  I assume the grass that crazy? 
+  
+  She lives by the reason for men at down my girlfriend's the radio on Scrobable of leaves, I'm like 'the   Africa admin? I feel like,     "Your guts a blind man whom? Well, I will never know.
  
 
 - For word-level RNN model, batch size = 128, epoch is 30. Loss is 3.9978. I train this model 30 epochs for 6 hours, so I did not make epoch larger.The text generated below.
